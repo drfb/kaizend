@@ -14,9 +14,9 @@ class Car:
         self.model = model
 
     def age(self):
-        return self.year
+        return 2019 - self.year
 
 
 # Test
-car = Car(2019, 'A', 'B')
+car = Car(2000, 'A', 'B')
 print(car.age())
