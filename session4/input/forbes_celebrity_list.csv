@@ -1,0 +1,203 @@
+year,rank,recipient,country,career,tied,title
+1999,1,Michael Jordan,United States,Sportsperson (Basketball),0,Michael_Jordan
+1999,2,Oprah Winfrey,United States,Television Personality,0,Oprah_Winfrey
+1999,3,Leonardo DiCaprio,United States,Actor,0,Leonardo_DiCaprio
+1999,4,Jerry Seinfeld,United States,Actor,0,Jerry_Seinfeld
+1999,5,Steven Spielberg,United States,Filmmaker,0,Steven_Spielberg
+1999,6,Spice Girls,United Kingdom,Musicians,0,Spice_Girls
+1999,7,Harrison Ford,United States,Actor,0,Harrison_Ford
+1999,8,Robin Williams,United States,Actor,0,Robin_Williams
+1999,9,Celine Dion,Canada,Musician,0,Céline_Dion
+1999,10,The Rolling Stones,United Kingdom,Musicians,0,The_Rolling_Stones
+2000,1,Julia Roberts,United States,Actor,0,Julia_Roberts
+2000,2,George Lucas,United States,Filmmaker,0,George_Lucas
+2000,3,Oprah Winfrey,United States,Television Personality,0,Oprah_Winfrey
+2000,4,Tom Hanks,United States,Actor,0,Tom_Hanks
+2000,5,Michael Jordan,United States,Sportsperson (Basketball),0,Michael_Jordan
+2000,6,The Rolling Stones,United Kingdom,Musicians,0,The_Rolling_Stones
+2000,7,Tiger Woods,United States,Sportsperson (Golf),0,Tiger_Woods
+2000,8,Backstreet Boys,United States,Musicians,0,Backstreet_Boys
+2000,9,Cher,United States,Musician,0,Cher
+2000,10,Steven Spielberg,United States,Filmmaker,0,Steven_Spielberg
+2001,1,Tom Cruise,United States,Actor,0,Tom_Cruise
+2001,2,Tiger Woods,United States,Sportsperson (Golf),0,Tiger_Woods
+2001,3,The Beatles,United Kingdom,Musicians,0,The_Beatles
+2001,4,Britney Spears,United States,Musician,0,Britney_Spears
+2001,5,Bruce Willis,United States,Actor,0,Bruce_Willis
+2001,6,Michael Jordan,United States,Sportsperson (Basketball),0,Michael_Jordan
+2001,7,Backstreet Boys,United States,Musicians,0,Backstreet_Boys
+2001,8,NSYNC,United States,Musicians,0,NSYNC
+2001,9,Oprah Winfrey,United States,Television Personality,0,Oprah_Winfrey
+2001,10,Mel Gibson,United States,Actor,0,Mel_Gibson
+2002,1,Britney Spears,United States,Musicians,0,Britney_Spears
+2002,2,Tiger Woods,United States,Sportsperson (Golf),0,Tiger_Woods
+2002,3,Steven Spielberg,United States,Filmmaker,0,Steven_Spielberg
+2002,4,Madonna,United States,Musician,0,Madonna_(entertainer)
+2002,5,U2,Republic of Ireland,Musicians,0,U2
+2002,6,NSYNC,United States,Musicians,0,NSYNC
+2002,7,Mariah Carey,United States,Musicians,0,Mariah_Carey
+2002,8,Oprah Winfrey,United States,Television Personality,0,Oprah_Winfrey
+2002,9,Michael Jordan,United States,Sportsperson (Basketball),0,Michael_Jordan
+2002,10,Tom Hanks,United States,Actor,0,Tom_Hanks
+2003,1,Jennifer Aniston,United States,Actor,0,Jennifer_Aniston
+2003,2,Eminem,United States,Musicians,1,Eminem
+2003,2,Dr. Dre,United States,Musicians,1,Dr._Dre
+2003,3,Tiger Woods,United States,Sportsperson (Golf),0,Tiger_Woods
+2003,4,Steven Spielberg,United States,Filmmaker,0,Steven_Spielberg
+2003,5,Jennifer Lopez,United States,Musician / Actor,0,Jennifer_Lopez
+2003,6,Paul McCartney,United Kingdom,Musician,0,Paul_McCartney
+2003,7,Ben Affleck,United States,Actor,0,Ben_Affleck
+2003,8,Oprah Winfrey,United States,Television Personality,0,Oprah_Winfrey
+2003,9,Tom Hanks,United States,Actor,0,Tom_Hanks
+2003,10,The Rolling Stones,United Kingdom,Musicians,0,The_Rolling_Stones
+2004,1,Mel Gibson,United States,Actor,0,Mel_Gibson
+2004,2,Tiger Woods,United States,Sportsperson (Golf),0,Tiger_Woods
+2004,3,Oprah Winfrey,United States,Television Personality,0,Oprah_Winfrey
+2004,4,Tom Cruise,United States,Actor,0,Tom_Cruise
+2004,5,The Rolling Stones,United Kingdom,Musicians,0,The_Rolling_Stones
+2004,6,J. K. Rowling,United Kingdom,Author,0,J._K._Rowling
+2004,7,Michael Jordan,United States,Sportsperson (Basketball),0,Michael_Jordan
+2004,8,Bruce Springsteen,United States,Musician,0,Bruce_Springsteen
+2004,9,Steven Spielberg,United States,Filmmaker,0,Steven_Spielberg
+2004,10,Johnny Depp,United States,Actor,0,Johnny_Depp
+2005,1,Oprah Winfrey,United States,Television Personality,0,Oprah_Winfrey
+2005,2,Tiger Woods,United States,Sportsperson (Golf),0,Tiger_Woods
+2005,3,Mel Gibson,United States,Actor,0,Mel_Gibson
+2005,4,George Lucas,United States,Filmmaker,0,George_Lucas
+2005,5,Shaquille O'Neal,United States,Sportsperson (Basketball),0,Shaquille_O'Neal
+2005,6,Steven Spielberg,United States,Filmmaker,0,Steven_Spielberg
+2005,7,Johnny Depp,United States,Actor,0,Johnny_Depp
+2005,8,Madonna,United States,Musician,0,Madonna_(entertainer)
+2005,9,Elton John,United Kingdom,Musician,0,Elton_John
+2005,10,Tom Cruise,United States,Actor,0,Tom_Cruise
+2006,1,Tom Cruise,United States,Actor,0,Tom_Cruise
+2006,2,The Rolling Stones,United Kingdom,Musicians,0,The_Rolling_Stones
+2006,3,Oprah Winfrey,United States,Television Personality,0,Oprah_Winfrey
+2006,4,U2,Republic of Ireland,Musicians,0,U2
+2006,5,Tiger Woods,United States,Sportsperson (Golf),0,Tiger_Woods
+2006,6,Steven Spielberg,United States,Filmmaker,0,Steven_Spielberg
+2006,7,Howard Stern,United States,Radio Personality,0,Howard_Stern
+2006,8,50 Cent,United States,Musician,0,50_Cent
+2006,9,Cast of The Sopranos,Various,Actors,0,The_Sopranos
+2006,10,Dan Brown,United States,Author,0,Dan_Brown
+2007,1,Oprah Winfrey,United States,Television Personality,0,Oprah_Winfrey
+2007,2,Tiger Woods,United States,Sportsperson (Golf),0,Tiger_Woods
+2007,3,Madonna,United States,Musician,0,Madonna_(entertainer)
+2007,4,The Rolling Stones,United Kingdom,Musicians,0,The_Rolling_Stones
+2007,5,Brad Pitt,United States,Actor,0,Brad_Pitt
+2007,6,Johnny Depp,United States,Actor,0,Johnny_Depp
+2007,7,Elton John,United Kingdom,Musician,0,Elton_John
+2007,8,Tom Cruise,United States,Actor,0,Tom_Cruise
+2007,9,Jay-Z,United States,Musician,0,Jay-Z
+2007,10,Steven Spielberg,United States,Filmmaker,0,Steven_Spielberg
+2008,1,Oprah Winfrey,United States,Television Personality,0,Oprah_Winfrey
+2008,2,Tiger Woods,United States,Sportsperson (Golf),0,Tiger_Woods
+2008,3,Angelina Jolie,United States,Actor,0,Angelina_Jolie
+2008,4,Beyonce,United States,Musician,0,Beyoncé
+2008,5,David Beckham,United Kingdom,Sportsperson (Association Football),0,David_Beckham
+2008,6,Johnny Depp,United States,Actor,0,Johnny_Depp
+2008,7,Jay-Z,United States,Musician,0,Jay-Z
+2008,8,The Police,United Kingdom,Musicians,0,The_Police
+2008,9,J. K. Rowling,United Kingdom,Author,0,J._K._Rowling
+2008,10,Brad Pitt,United States,Actor,1,Brad_Pitt
+2008,10,Paula Deen,United States,Television Personality,1,Paula_Deen
+2009,1,Angelina Jolie,United States,Actor,0,Angelina_Jolie
+2009,2,Oprah Winfrey,United States,Television Personality,0,Oprah_Winfrey
+2009,3,Madonna,United States,Musician,0,Madonna_(entertainer)
+2009,4,Beyonce,United States,Musician,0,Beyoncé
+2009,5,Tiger Woods,United States,Sportsperson (Golf),0,Tiger_Woods
+2009,6,Bruce Springsteen,United States,Musician,0,Bruce_Springsteen
+2009,7,Steven Spielberg,United States,Filmmaker,0,Steven_Spielberg
+2009,8,Jennifer Aniston,United States,Actor,0,Jennifer_Aniston
+2009,9,Brad Pitt,United States,Actor,0,Brad_Pitt
+2009,10,Kobe Bryant,United States,Sportsperson (Basketball),0,Kobe_Bryant
+2010,1,Oprah Winfrey,United States,Television Personality,0,Oprah_Winfrey
+2010,2,Beyonce,United States,Musician,0,Beyoncé
+2010,3,James Cameron,Canada,Filmmaker,0,James_Cameron
+2010,4,Lady Gaga,United States,Musician,0,Lady_Gaga
+2010,5,Tiger Woods,United States,Sportsperson (Golf),0,Tiger_Woods
+2010,6,Britney Spears,United States,Musician,0,Britney_Spears
+2010,7,U2,Republic of Ireland,Musicians,0,U2
+2010,8,Sandra Bullock,United States,Actor,0,Sandra_Bullock
+2010,9,Johnny Depp,United States,Actor,0,Johnny_Depp
+2010,10,Madonna,United States,Musician,0,Madonna_(entertainer)
+2011,1,Lady Gaga,United States,Musician,0,Lady_Gaga
+2011,2,Oprah Winfrey,United States,Television Personality,0,Oprah_Winfrey
+2011,3,Justin Bieber,Canada,Musician,0,Justin_Bieber
+2011,4,U2,Republic of Ireland,Musicians,0,U2
+2011,5,Elton John,United Kingdom,Musician,0,Elton_John
+2011,6,Tiger Woods,United States,Sportsperson (Golf),0,Tiger_Woods
+2011,7,Taylor Swift,United States,Musician,0,Taylor_Swift
+2011,8,Bon Jovi,United States,Musician,0,Bon_Jovi
+2011,9,Simon Cowell,United Kingdom,Television Personality,0,Simon_Cowell
+2011,10,LeBron James,United States,Sportsperson (Basketball),0,LeBron_James
+2012,1,Jennifer Lopez,United States,Musician / Actor,0,Jennifer_Lopez
+2012,2,Oprah Winfrey,United States,Television Personality,0,Oprah_Winfrey
+2012,3,Justin Bieber,Canada,Musician,0,Justin_Bieber
+2012,4,Rihanna,Barbados,Musician,0,Rihanna
+2012,5,Lady Gaga,United States,Musician,0,Lady_Gaga
+2012,6,Britney Spears,United States,Musician,0,Britney_Spears
+2012,7,Kim Kardashian,United States,Television Personality,0,Kim_Kardashian
+2012,8,Katy Perry,United States,Musician,0,Katy_Perry
+2012,9,Tom Cruise,United States,Actor,0,Tom_Cruise
+2012,10,Steven Spielberg,United States,Filmmaker,0,Steven_Spielberg
+2013,1,Oprah Winfrey,United States,Television Personality,0,Oprah_Winfrey
+2013,2,Lady Gaga,United States,Musician,0,Lady_Gaga
+2013,3,Steven Spielberg,United States,Filmmaker,0,Steven_Spielberg
+2013,4,Beyonce,United States,Musician,0,Beyoncé
+2013,5,Madonna,United States,Musician,0,Madonna_(entertainer)
+2013,6,Taylor Swift,United States,Musician,0,Taylor_Swift
+2013,7,Bon Jovi,United States,Musicians,0,Bon_Jovi
+2013,8,Roger Federer,Switzerland,Sportsperson (Tennis),0,Roger_Federer
+2013,9,Justin Bieber,Canada,Musician,0,Justin_Bieber
+2013,10,Ellen DeGeneres,United States,Television Personality,0,Ellen_DeGeneres
+2014,1,Beyonce,United States,Musician,0,Beyoncé
+2014,2,LeBron James,United States,Sportsperson (Basketball),0,LeBron_James
+2014,3,Dr. Dre,United States,Musician,0,Dr._Dre
+2014,4,Oprah Winfrey,United States,Television Personality,0,Oprah_Winfrey
+2014,5,Ellen DeGeneres,United States,Television Personality,0,Ellen_DeGeneres
+2014,6,Jay-Z,United States,Musician,0,Jay-Z
+2014,7,"Floyd Mayweather, Jr.",United States,Sportsperson (Boxing),0,Floyd_Mayweather_Jr.
+2014,8,Rihanna,Barbados,Musician,0,Rihanna
+2014,9,Katy Perry,United States,Musician,0,Katy_Perry
+2014,10,"Robert Downey, Jr.",United States,Actor,0,Robert_Downey_Jr.
+2015,1,"Floyd Mayweather, Jr.",United States,Sportsperson (Boxing),0,Floyd_Mayweather_Jr.
+2015,2,Manny Pacquiao,Philippines,Sportsperson (Boxing),0,Manny_Pacquiao
+2015,3,Katy Perry,United States,Musician,0,Katy_Perry
+2015,4,One Direction,United Kingdom/Republic of Ireland,Musicians,0,One_Direction
+2015,5,Howard Stern,United States,Television Personality,0,Howard_Stern
+2015,6,Garth Brooks,United States,Musician,0,Garth_Brooks
+2015,7,James Patterson,United States,Author,0,James_Patterson
+2015,8,"Robert Downey, Jr.",United States,Actor,0,Robert_Downey_Jr.
+2015,8,Taylor Swift,United States,Musician,0,Taylor_Swift
+2015,10,Cristiano Ronaldo,Portugal,Sportsperson (Association Football),0,Cristiano_Ronaldo
+2016,1,Taylor Swift,United States,Musician,0,Taylor_Swift
+2016,2,One Direction,United Kingdom/Republic of Ireland,Musicians,0,One_Direction
+2016,3,James Patterson,United States,Author,0,James_Patterson
+2016,4,Cristiano Ronaldo,Portugal,Sportsperson (Association Football),0,Cristiano_Ronaldo
+2016,4,Dr. Phil McGraw,United States,Television Personality,0,Phil_McGraw
+2016,6,Kevin Hart,United States,Actor,0,Kevin_Hart
+2016,7,Howard Stern,United States,Radio Personality,0,Howard_Stern
+2016,8,Lionel Messi,Argentina,Sportsperson (Association Football),0,Lionel_Messi
+2016,9,Adele,United Kingdom,Musician,0,Adele
+2016,10,Rush Limbaugh,United States,Radio Personality,0,Rush_Limbaugh
+2017,1,Sean 'Diddy' Combs,United States,Musician,0,Sean_Combs
+2017,2,Beyonce,United States,Musician,0,Beyoncé
+2017,3,J. K. Rowling,United Kingdom,Author,0,J._K._Rowling
+2017,4,Drake,Canada,Musician,0,Drake_(musician)
+2017,5,Cristiano Ronaldo,Portugal,Sportsperson (Association Football),0,Cristiano_Ronaldo
+2017,6,The Weeknd,Canada,Musician,0,The_Weeknd
+2017,7,Howard Stern,United States,Radio Personality,0,Howard_Stern
+2017,8,Coldplay,United Kingdom,Musician,0,Coldplay
+2017,9,James Patterson,United States,Author,0,James_Patterson
+2017,10,LeBron James,United States,Sportsperson (Basketball),0,LeBron_James
+2018,1,"Floyd Mayweather, Jr.",United States,Athlete (Boxing),0,Floyd_Mayweather_Jr.
+2018,2,George Clooney,United States,Actor,0,George_Clooney
+2018,3,Kylie Jenner,United States,Personality,0,Kylie_Jenner
+2018,4,Judy Sheindlin,United States,Personality,0,Judy_Sheindlin
+2018,5,Dwayne Johnson,United States,Actor,0,Dwayne_Johnson
+2018,6,U2,Republic of Ireland,Musicians,0,U2
+2018,7,Coldplay,United Kingdom,Musicians,0,Coldplay
+2018,8,Lionel Messi,Argentina,Athlete (Association football),0,Lionel_Messi
+2018,9,Ed Sheeran,United Kingdom,Musician,0,Ed_Sheeran
+2018,10,Cristiano Ronaldo,Portugal,Athlete (Association football),0,Cristiano_Ronaldo
